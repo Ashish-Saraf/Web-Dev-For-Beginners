@@ -4,7 +4,7 @@
 
 - [ ] Machine Code
 - [ ] JavaScript
-- [ ] Bash
+- [] Bash
 
 2. Development environments are unique to each developer
 
